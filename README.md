@@ -9,8 +9,9 @@ tuibird’s GitHub profile: https://github.com/tuibird
 
 Run the builder directly from your terminal:
 
+```
 bash <(curl -s https://raw.githubusercontent.com/MurderFromMars/Slowfetch-Deb-Builder/main/SlowfetchBuild.sh)
-
+```
 This command downloads the script, builds Slowfetch from source, generates a Debian package, and places the finished file in your Downloads directory.
 
 ## Purpose
