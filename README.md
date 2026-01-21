@@ -1,6 +1,6 @@
 # Slowfetch Debian Builder
 
-The Slowfetch Debian Builder is a dedicated script for producing a Debian package of Slowfetch, the fast and lightweight system information tool created by tuibird. This project exists specifically to make installing Slowfetch on Debian and Ubuntu systems straightforward and consistent.
+The Slowfetch Debian Builder is a dedicated script for producing a Debian package of Slowfetch, the fast and beautiful system information tool created by tuibird. This project exists specifically to make installing Slowfetch on Debian and Ubuntu systems straightforward and consistent.
 
 Slowfetch repository: https://github.com/tuibird/Slowfetch  
 tuibird’s GitHub profile: https://github.com/tuibird
